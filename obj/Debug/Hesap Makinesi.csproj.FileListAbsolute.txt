@@ -1,0 +1,37 @@
+C:\Users\Berkay\Desktop\C# Denemeleri\Uygulamalar\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe.config
+C:\Users\Berkay\Desktop\C# Denemeleri\Uygulamalar\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe
+C:\Users\Berkay\Desktop\C# Denemeleri\Uygulamalar\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.pdb
+C:\Users\Berkay\Desktop\C# Denemeleri\Uygulamalar\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.AssemblyReference.cache
+C:\Users\Berkay\Desktop\C# Denemeleri\Uygulamalar\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Berkay\Desktop\C# Denemeleri\Uygulamalar\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Form1.resources
+C:\Users\Berkay\Desktop\C# Denemeleri\Uygulamalar\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+C:\Users\Berkay\Desktop\C# Denemeleri\Uygulamalar\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.GenerateResource.cache
+C:\Users\Berkay\Desktop\C# Denemeleri\Uygulamalar\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\C# Denemeleri\Uygulamalar\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.exe
+C:\Users\Berkay\Desktop\C# Denemeleri\Uygulamalar\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.pdb
+C:\Users\Berkay\Desktop\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe.config
+C:\Users\Berkay\Desktop\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe
+C:\Users\Berkay\Desktop\Hesap Makinesi\bin\Debug\Hesap Makinesi.pdb
+C:\Users\Berkay\Desktop\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.AssemblyReference.cache
+C:\Users\Berkay\Desktop\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Berkay\Desktop\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Form1.resources
+C:\Users\Berkay\Desktop\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+C:\Users\Berkay\Desktop\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.GenerateResource.cache
+C:\Users\Berkay\Desktop\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\Hesap Makinesi\obj\Debug\Hesap Makinesi.exe
+C:\Users\Berkay\Desktop\Hesap Makinesi\obj\Debug\Hesap Makinesi.pdb
+C:\Users\Berkay\Desktop\Hesap Makinesi - Kopya\bin\Debug\Hesap Makinesi.exe.config
+C:\Users\Berkay\Desktop\Hesap Makinesi - Kopya\bin\Debug\Hesap Makinesi.exe
+C:\Users\Berkay\Desktop\Hesap Makinesi - Kopya\bin\Debug\Hesap Makinesi.pdb
+C:\Users\Berkay\Desktop\Hesap Makinesi - Kopya\obj\Debug\Hesap Makinesi.csproj.AssemblyReference.cache
+C:\Users\Berkay\Desktop\Hesap Makinesi - Kopya\obj\Debug\Hesap Makinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Berkay\Desktop\Hesap Makinesi - Kopya\obj\Debug\Hesap_Makinesi.Form1.resources
+C:\Users\Berkay\Desktop\Hesap Makinesi - Kopya\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+C:\Users\Berkay\Desktop\Hesap Makinesi - Kopya\obj\Debug\Hesap Makinesi.csproj.GenerateResource.cache
+C:\Users\Berkay\Desktop\Hesap Makinesi - Kopya\obj\Debug\Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\Hesap Makinesi - Kopya\obj\Debug\Hesap Makinesi.exe
+C:\Users\Berkay\Desktop\Hesap Makinesi - Kopya\obj\Debug\Hesap Makinesi.pdb
+C:\Users\Berkay\Desktop\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe.manifest
+C:\Users\Berkay\Desktop\Hesap Makinesi\bin\Debug\Hesap Makinesi.application
+C:\Users\Berkay\Desktop\Hesap Makinesi\obj\Debug\Hesap Makinesi.exe.manifest
+C:\Users\Berkay\Desktop\Hesap Makinesi\obj\Debug\Hesap Makinesi.application

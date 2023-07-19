@@ -1,0 +1,15 @@
+C:\Users\Berkay\Documents\GitHub\Colculator\obj\Debug\Colculator.csproj.AssemblyReference.cache
+C:\Users\Berkay\Documents\GitHub\Colculator\obj\Debug\Colculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Berkay\Documents\GitHub\Colculator\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+C:\Users\Berkay\Documents\GitHub\Colculator\obj\Debug\Colculator.csproj.GenerateResource.cache
+C:\Users\Berkay\Documents\GitHub\Colculator\obj\Debug\Colculator.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Documents\GitHub\Colculator\obj\Debug\Hesap Makinesi.exe
+C:\Users\Berkay\Documents\GitHub\Colculator\obj\Debug\Hesap Makinesi.pdb
+C:\Users\Berkay\Documents\GitHub\Colculator\bin\Debug\Hesap Makinesi.exe.config
+C:\Users\Berkay\Documents\GitHub\Colculator\bin\Debug\Hesap Makinesi.exe.manifest
+C:\Users\Berkay\Documents\GitHub\Colculator\bin\Debug\Hesap Makinesi.application
+C:\Users\Berkay\Documents\GitHub\Colculator\bin\Debug\Hesap Makinesi.exe
+C:\Users\Berkay\Documents\GitHub\Colculator\bin\Debug\Hesap Makinesi.pdb
+C:\Users\Berkay\Documents\GitHub\Colculator\obj\Debug\Hesap Makinesi.exe.manifest
+C:\Users\Berkay\Documents\GitHub\Colculator\obj\Debug\Hesap Makinesi.application
+C:\Users\Berkay\Documents\GitHub\Colculator\obj\Debug\Colculator.Form1.resources
